@@ -12,7 +12,7 @@ public class User {
     private  String id;
     private  String username;
     private  int sex;
-    private  int post;
+    private  int post; //test
 
 
     public String getId() {
